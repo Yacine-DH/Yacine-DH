@@ -22,7 +22,7 @@ This is one of my first projects on GitHub, where I’m learning and practicing 
 - 🎓 Studying Computer Science (B.Sc.) at TU Darmstadt  
 - 💻 Familiar with **Java**, **Python**, and **HTML**  
 - 🚀 Interested in improving my coding skills and building real projects
-- ➕ Currently learning more about **Flask** and **Back-End Development**
+
 
 
 This repository is mainly for learning Git and GitHub basics, experimenting with code, and tracking my progress.  
