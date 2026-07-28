@@ -1,4 +1,4 @@
-## Hi there 👋
+Greetings
 
 <!--
 **Yacine-DH/Yacine-DH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,15 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m Yacine, a Computer Science student at TU Darmstadt.  
-This is one of my first projects on GitHub, where I’m learning and practicing Git.  
+I’m Yacine, a CS student @TU Darmstadt.  
+getting familiar with github
 
-## About Me
-- 🎓 Studying Computer Science (B.Sc.) at TU Darmstadt  
-- 💻 Familiar with **Java**, **Python**, and **HTML**  
-- 🚀 Interested in improving my coding skills and building real projects
+also improving my coding skills and building real useful projects
 
 
-
-This repository is mainly for learning Git and GitHub basics, experimenting with code, and tracking my progress.  
 
